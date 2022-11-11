@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <h1>Index works</h1>
+    <h1>Comments</h1>
   </b-container>
 </template>
 
