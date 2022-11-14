@@ -1,9 +1,16 @@
 <template>
   <b-container>
-    <h1>Categorys</h1>
+    <h1 class="mt-5 mb-4">Category Table</h1>
+    <Table> </Table>
   </b-container>
 </template>
 
 <script>
-export default {}
+import Table from '@/components/Table.vue'
+
+export default {
+  components: {
+    Table,
+  },
+}
 </script>
