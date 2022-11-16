@@ -1,6 +1,6 @@
 <template>
     <b-container>
-        <h1 class="mt-5 mb-4">Comments Table</h1>
+        <h1 class="mt-5 mb-4">Category Table</h1>
         <Table> </Table>
     </b-container>
 </template>
