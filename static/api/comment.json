@@ -1,0 +1,31 @@
+{
+    "uid": "39e363b2-fcea-4b30-8a38-7573881198bb",
+    "content": "Qui pariatur et dolorem ab est ut.",
+    "published_at": "2022-11-23T01:27:42.000000Z",
+    "user_id": 7,
+    "post_id": 100,
+    "created_at": "2022-11-16T01:27:42.000000Z",
+    "updated_at": "2022-11-16T01:27:42.000000Z",
+    "deleted_at": null,
+    "user": {
+        "uid": "00e6ae95-ba4c-3da6-a7df-fe0a5a512948",
+        "name": "Myriam Purdy",
+        "email": "jkertzmann@example.com",
+        "email_verified_at": "2022-11-16T01:27:40.000000Z",
+        "phone": null,
+        "created_at": "2022-11-16T01:27:40.000000Z",
+        "updated_at": "2022-11-16T01:27:40.000000Z"
+    },
+    "post": {
+        "uid": "5e3b007c-fc51-40d8-94ee-ef99fc591824",
+        "title": "Eaque laborum nesciunt laboriosam soluta.",
+        "slug": "eaque-laborum-nesciunt-laboriosam-soluta",
+        "description": "Amet aut consequatur aliquam hic cumque laborum. Quibusdam mollitia aut assumenda voluptatem in.",
+        "content": "<html><head><title>Sed recusandae voluptas soluta eum.</title></head><body><form action=\"example.org\" method=\"POST\"><label for=\"username\">vero</label><input type=\"text\" id=\"username\"><label for=\"password\">sed</label><input type=\"password\" id=\"password\"></form><span>Modi quasi ut.</span><i>In nobis quia eligendi voluptas voluptate enim occaecati sit nesciunt dolorem.</i></body></html>\n",
+        "image": "https://via.placeholder.com/640x480.png/004477?text=sed",
+        "published_at": "2022-11-23T01:27:42.000000Z",
+        "created_at": "2022-11-16T01:27:42.000000Z",
+        "updated_at": "2022-11-16T01:27:42.000000Z",
+        "deleted_at": null
+    }
+}
